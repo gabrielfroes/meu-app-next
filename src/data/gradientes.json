@@ -1,0 +1,7 @@
+{
+  "azul": { "from": "from-blue-500", "to": "to-blue-800" },
+  "vermelha": { "from": "from-red-500", "to": "to-red-800" },
+  "verde": { "from": "from-green-500", "to": "to-green-800" },
+  "amarela": { "from": "from-yellow-500", "to": "to-yellow-800" },
+  "roxa": { "from": "from-purple-500", "to": "to-purple-800" }
+}
